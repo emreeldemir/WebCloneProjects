@@ -1,3 +1,3 @@
-### Includes Instagram, LinkedIn and Medium Web Clone Projects
+### Includes Google, Instagram, LinkedIn and Medium Web Clone Projects
 ---
 

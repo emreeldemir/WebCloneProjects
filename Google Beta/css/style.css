@@ -1,0 +1,64 @@
+main {
+    width: 90%;
+    background-color: white;
+    margin: 0 auto;
+}
+
+.logo {
+    width: 100%;
+    height: 100px;
+}
+
+.search {
+    background-color: #EEEEEE;
+    width: 99.8%;
+    height: 61.5px;
+    text-align: center;
+    margin: 0px;
+}
+
+.box1 {
+    float: left;
+    height: 66px;
+    width: 37%;
+    background-color: #7EE5DA;
+    text-align: center;
+    margin: 0.2% 0.2% 0.2% 0;
+    padding-top: 10px;
+    font-size: 16px;
+}
+
+.box2 {
+    float: left;
+    height: 71px;
+    width: 19.3%;
+    background-color: #70CCC2;
+    text-align: center;
+    margin: 0.2% 0.2% 0.2% 0;
+    padding-top: 5px;
+    font-size: 13px;
+}
+
+.box3 {
+    float: left;
+    height: 76px;
+    width: 43.2%;
+    background-color: #62B3AA;
+    text-align: center;
+    margin: 0.2% 0;
+    font-size: 13px;
+}
+
+footer {
+    float: left;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    margin-top: 4px;
+    padding-top: 12px;
+    font-size: 13px;
+}
+
+
+
+
